@@ -1,0 +1,7 @@
+Os dados levantados e analisados na publicação Ligações Rodoviárias e Hidroviárias 2016 estão disponibilizados em planilhas, descritas a seguir:
+
+- Municípios sem objeto da pesquisa: contém uma lista de municípios cujas ligações não foram levantadas em virtude de não haver transporte público ou de os agentes responsáveis pelo transporte não corrsponderem aos requisitos de regularidade necessários para a coleta. Contém também uma breve descrição de como é feito o transporte nos municípios.
+
+- Índices de centralidade: contém duas tabelas. A primeira apresenta índices de proximidade, intermediação e grau, para o conjunto de municípios pesquisados (5.386), calculados a partir de análise de rede utilizando teoria dos grafos. A segunda apresenta o índice de centralidade e o custo médio por tempo para 244 centros urbanos de hierarquia superior (de centros sub-regionais acima), a partir do REGIC 2007.
+
+- Base de dados - ligações rodoviárias e hidroviárias 2016: Constitui o cerne da pesquisa, contendo os pares de ligações agregados entre municípios. As frequências foram agregadas, ida e volta, bem como seções redundantes, para cada par de municípios conectados por linhas de transporte. Foram considerados os custos e o tempo mínimos de viagem.
