@@ -49,6 +49,7 @@ Flask==1.1.1
 fsspec==0.5.1
 future==0.17.1
 geopandas==0.6.1
+geos==3.3
 gevent==1.4.0
 glob2==0.7
 greenlet==0.4.15
