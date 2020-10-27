@@ -29,7 +29,7 @@ colorama==0.4.1
 colorlover==0.3.0
 comtypes==1.1.7
 contextlib2==0.6.0
-cryptography==2.7
+cryptography==3.2
 cufflinks==0.17.3
 cycler==0.10.0
 Cython==0.29.13
