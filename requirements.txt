@@ -34,7 +34,7 @@ cufflinks==0.17.3
 cycler==0.10.0
 Cython==0.29.13
 cytoolz==0.10.0
-dask==2.4.0
+dask==2021.10.0
 decorator==4.4.0
 defusedxml==0.6.0
 descartes==1.1.0
